@@ -1,4 +1,4 @@
 ## Table of Contents
--[Hello](#hello)
+- [Hello](#hello)
 
 ## Hello
